@@ -7,3 +7,4 @@ It also support random queue and loop songs.
 
 The playlist is going to be save locally in the song database and with each different database it can have different playlist 
 
+to start using it , please runt the simple_mp3.py . The Media_player is just a libary .
